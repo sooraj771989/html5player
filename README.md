@@ -1,2 +1,2 @@
 # html5player
-Music Player Developed in HTML5, CSS , JS
+Music Player Developed in HTML5, CSS,JS
